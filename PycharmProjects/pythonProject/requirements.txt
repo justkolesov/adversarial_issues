@@ -1,0 +1,5 @@
+sklearn==0.0
+argparse==1.1
+matplotlib==3.4.2
+scipy==1.7.0
+ 
